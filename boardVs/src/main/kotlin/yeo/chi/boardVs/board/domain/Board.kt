@@ -2,7 +2,6 @@ package yeo.chi.boardVs.board.domain
 
 import java.time.LocalDateTime
 import java.time.LocalDateTime.now
-import org.springframework.data.annotation.CreatedDate
 import org.springframework.data.annotation.Id
 import org.springframework.data.relational.core.mapping.Table
 
